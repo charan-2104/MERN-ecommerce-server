@@ -37,7 +37,7 @@ This is the backend for a MERN stack E-commerce application. The backend is buil
 
 	MONGO_URI: `mongoDB url string`
 
-	STRIPE_KEY: `Stripe key`
+	STRIPE_KEY: `Stripe secret key`
 
 4.	Run the server:
 
