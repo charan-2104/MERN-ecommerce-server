@@ -33,23 +33,11 @@ This is the backend for a MERN stack E-commerce application. The backend is buil
 
 2. Create a `.env` file in the root directory and add the following environment variables:
 
-	VITE_FIREBASE_KEY=  `from firebase`
+	PORT: `4000`
 
-	VITE_AUTH_DOMAIN=  `from firebase`
+	MONGO_URI: `mongoDB url string`
 
-	VITE_PROJECT_ID=`from firebase`
-
-	VITE_STORAGE_BUCKET=`from firebase`
-
-	VITE_MESSAGING_SENDER_ID=`from firebase`
-
-	VITE_APP_ID=`from firebase`
-
-	VITE_SERVER=`Your Backend Server URl`
-
-   VITE_STRIPE_KEY=`Stripe Publishable Key`
-   
-  
+	STRIPE_KEY: `Stripe key`
 
 4.	Run the server:
 
